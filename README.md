@@ -3,7 +3,6 @@
 **Capstone Project | Summer Analytics 2025 | IIT Guwahati**
 *By Rushi Girdharbhai Vasoya*
 
-📂 **Current branch**: `Rushi`
 
 ---
 
