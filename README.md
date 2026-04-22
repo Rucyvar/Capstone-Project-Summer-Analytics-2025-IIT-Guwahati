@@ -93,7 +93,6 @@ This is the output for parking lot **BHMBCCMKT01**, showing all three models ove
    ```bash
    git clone https://github.com/Rucyvar/Capstone-Project-Summer-Analytics-2025-IIT-Guwahati.git
    cd Capstone-Project-Summer-Analytics-2025-IIT-Guwahati
-   git checkout Rushi
    ```
 2. Open `code.ipynb` in Google Colab.
 3. Upload `dataset.csv` and run all notebook cells.
